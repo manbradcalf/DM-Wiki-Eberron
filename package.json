@@ -9,4 +9,5 @@
   "main": "",
   "scripts": {
 	  "start": "tiddlywiki eberron --listen"
+  	}
   }
